@@ -1,2 +1,2 @@
 # Recursive-Maze-Generation
-Recursive Maze Generator 
+Maze Generator:
