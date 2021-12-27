@@ -1,2 +1,2 @@
 # Recursive-Maze-Generation
-Maze Generator:
+Maze Generator: https://kyokuo.github.io/Recursive-Maze-Generation/
